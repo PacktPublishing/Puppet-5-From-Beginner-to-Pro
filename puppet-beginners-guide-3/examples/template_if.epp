@@ -1,0 +1,7 @@
+<% if $ssl_enabled { -%>
+  ## SSL directives
+  SSLEngine on
+  SSLCertificateFile      "<%= $ssl_cert %>"
+  SSLCertificateKeyFile   "<%= $ssl_key %>"
+  ...
+<% } -%>
