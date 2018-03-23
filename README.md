@@ -20,7 +20,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 Puppet 5 – From Beginner to Pro is designed for those who are familiar with Puppet, including system administrators and developers who are looking to manage computer server systems for configuration management.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Operating System - Ubuntu 16.04 LTS,
+Operating System - Ubuntu 16.04 LTS <br/>
 Puppet 5,
 Vagrant,
 Virtual Box,
